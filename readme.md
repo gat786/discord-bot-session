@@ -21,3 +21,15 @@ They do fairly simple things and it can be easily understood what they are
 trying to do by just looking at the code itself. 
 
 For more information you can look at the session here at [link](#)
+
+## Adding bot to your guild
+
+For testing bot or for using it you will need to add it to a guild and the easiest way to do this is by opening this URL in your browser 
+
+
+https://discord.com/oauth2/authorize?client_id=YOUR_DISCORD_APP_ID&scope=bot
+
+Wherein you have to replace the YOUR_DISCORD_APP_ID with id for your project 
+at discord developers portal
+
+And select the approriate guild to which you want to add this bot to.
